@@ -31,6 +31,7 @@ header {
 }
 header li {
   margin-right: 2em;
+  cursor: pointer;
 }
 
 .main {
@@ -71,5 +72,4 @@ footer {
   font-weight: bold;
   color: black;
   background-color: powderblue;
-  margin-top: 10em;
 }

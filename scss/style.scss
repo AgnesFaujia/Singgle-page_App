@@ -1,11 +1,14 @@
 .tugas_tugas {
   .about_me_container {
+    padding: 5em;
+    background-color: grey;
     p {
       text-align: center;
-      padding: 2em;
       color: white;
       font-weight: bold;
-      font-size: 2em;
+      margin-top: -1em;
+      font-size: 3em;
+      margin-bottom: 1em;
     }
     ul {
       list-style-type: none;
@@ -16,6 +19,34 @@
         background-color: powderblue;
         padding: 0.8em;
         border-radius: 10px;
+      }
+    }
+  }
+}
+
+.contact {
+  .about_me_container {
+    padding: 5em;
+    background-color: grey;
+    p {
+      text-align: center;
+      color: white;
+      font-weight: bold;
+      margin-top: -1em;
+      font-size: 3em;
+      margin-bottom: 1em;
+    }
+    ul {
+      list-style-type: none;
+      display: flex;
+      justify-content: center;
+      li {
+        margin-right: 2em;
+        a {
+          background-color: powderblue;
+          padding: 2em;
+          border-radius: 10px;
+        }
       }
     }
   }
