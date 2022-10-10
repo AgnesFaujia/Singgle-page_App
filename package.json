@@ -1,0 +1,20 @@
+{
+  "name": "singgle-page_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spa.js",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgnesFaujia/Singgle-page_App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgnesFaujia/Singgle-page_App/issues"
+  },
+  "homepage": "https://github.com/AgnesFaujia/Singgle-page_App#readme"
+}

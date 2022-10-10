@@ -1,0 +1,16 @@
+.tugas_tugas .about_me_container p {
+  text-align: center;
+  padding: 2em;
+  color: white;
+  font-weight: bold;
+  font-size: 2em; }
+
+.tugas_tugas .about_me_container ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center; }
+  .tugas_tugas .about_me_container ul li {
+    margin-right: 2em;
+    background-color: powderblue;
+    padding: 0.8em;
+    border-radius: 10px; }
